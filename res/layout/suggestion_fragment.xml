@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="@color/white">
+
+    <TextView
+        android:layout_width="148dp"
+        android:layout_height="wrap_content"
+        android:text="Suggestions"
+        android:id="@+id/suggestions"
+        android:layout_weight="0.03" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:id="@+id/suggestions_name"
+        android:layout_weight="0.03" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Name"
+        android:ems="10"
+        android:id="@+id/name"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.03" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        android:id="@+id/suggestions_email"
+        android:layout_weight="0.03" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/email"
+        android:layout_weight="0.03" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Subject"
+        android:id="@+id/suggestions_subject"
+        android:layout_weight="0.03" />
+
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/subject" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Message"
+        android:id="@+id/suggestions_message"
+        android:layout_weight="0.03" />
+
+    <EditText
+        android:layout_width="337dp"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/message"
+        android:layout_weight="0.38"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/password"
+        android:layout_weight="0.03" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/emailto"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.03" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Button"
+        android:id="@+id/send"
+        android:layout_gravity="right"
+        android:layout_weight="0.03" />
+</LinearLayout>

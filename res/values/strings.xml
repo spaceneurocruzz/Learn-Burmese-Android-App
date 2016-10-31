@@ -1,0 +1,349 @@
+<resources>
+    <string name="app_name">LearnBurmese</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family</string>
+
+    <!-- Consonants-->
+    <string name="con_1">Ka</string>
+    <string name="con_ch1">[ㄍㄚˋ]</string>
+    <string name="con_word1">က</string>
+
+    <string name="con_2">Kha</string>
+    <string name="con_ch2">[ㄎㄚˋ]</string>
+    <string name="con_word2">ခ</string>
+
+    <string name="con_3">ga</string>
+    <string name="con_ch3">[ㄍㄚˋ]</string>
+    <string name="con_word3">ဂ</string>
+
+    <string name="con_4">gha</string>
+    <string name="con_ch4">[ㄍㄚˋ]</string>
+    <string name="con_word4">ဃ</string>
+
+    <string name="con_5">nga</string>
+    <string name="con_ch5">[ㄋㄚˋ]</string>
+    <string name="con_word5">င</string>
+
+    <string name="con_6">sa</string>
+    <string name="con_ch6">[ㄙㄚˋ]</string>
+    <string name="con_word6">စ</string>
+
+    <string name="con_7">sha</string>
+    <string name="con_ch7">[ㄙㄚˋ]</string>
+    <string name="con_word7">ဆ</string>
+
+    <string name="con_8">za</string>
+    <string name="con_ch8">[Zㄚˋ]</string>
+    <string name="con_word8">ဇ</string>
+
+    <string name="con_9">zha</string>
+    <string name="con_ch9">[Zㄚˋ]</string>
+    <string name="con_word9">ဈ</string>
+
+    <string name="con_10">nya</string>
+    <string name="con_ch10">[ㄋㄧㄚˋ]</string>
+    <string name="con_word10">ည</string>
+
+    <string name="con_11">ta</string>
+    <string name="con_ch11">[ㄉㄚˋ]</string>
+    <string name="con_word11">ဋ</string>
+
+    <string name="con_12">hta</string>
+    <string name="con_ch12">[ㄊㄚˋ]</string>
+    <string name="con_word12">ဌ</string>
+
+    <string name="con_13">da</string>
+    <string name="con_ch13">[ㄉㄚˋ]</string>
+    <string name="con_word13">ဍ</string>
+
+    <string name="con_14">hda</string>
+    <string name="con_ch14">[ㄉㄚˋ]</string>
+    <string name="con_word14">ဎ</string>
+
+    <string name="con_15">na</string>
+    <string name="con_ch15">[ㄋㄚˋ]</string>
+    <string name="con_word15">ဏ</string>
+
+    <string name="con_16">ta</string>
+    <string name="con_ch16">[ㄉㄚˋ]</string>
+    <string name="con_word16">တ</string>
+
+    <string name="con_17">hta</string>
+    <string name="con_ch17">[ㄊㄚˋ]</string>
+    <string name="con_word17">ထ</string>
+
+    <string name="con_18">da</string>
+    <string name="con_ch18">[ㄊㄚˋ]</string>
+    <string name="con_word18">ဒ</string>
+
+    <string name="con_19">hda</string>
+    <string name="con_ch19">[ㄉㄚˋ]</string>
+    <string name="con_word19">ဓ</string>
+
+    <string name="con_20">na</string>
+    <string name="con_ch20">[ㄋㄚˋ]</string>
+    <string name="con_word20">န</string>
+
+    <string name="con_21">pa</string>
+    <string name="con_ch21">[ㄅㄚˋ]</string>
+    <string name="con_word21">ပ</string>
+
+    <string name="con_22">hpa</string>
+    <string name="con_ch22">[ㄆㄚˋ]</string>
+    <string name="con_word22">ဖ</string>
+
+    <string name="con_23">ba</string>
+    <string name="con_ch23">[ㄅㄚˋ]</string>
+    <string name="con_word23">ဗ</string>
+
+    <string name="con_24">hba</string>
+    <string name="con_ch24">[ㄅㄚˋ]</string>
+    <string name="con_word24">ဘ</string>
+
+    <string name="con_25">ma</string>
+    <string name="con_ch25">[ㄇㄚˋ]</string>
+    <string name="con_word25">မ</string>
+
+    <string name="con_26">ya</string>
+    <string name="con_ch26">[ㄧㄚˋ]</string>
+    <string name="con_word26">ယ</string>
+
+    <string name="con_27">ra</string>
+    <string name="con_ch27">[ㄧㄚˋ]</string>
+    <string name="con_word27">ရ</string>
+
+    <string name="con_28">la</string>
+    <string name="con_ch28">[ㄌㄚˋ]</string>
+    <string name="con_word28">လ</string>
+
+    <string name="con_29">wa</string>
+    <string name="con_ch29">[ㄨㄚˋ]</string>
+    <string name="con_word29">ဝ</string>
+
+    <string name="con_30">tha</string>
+    <string name="con_ch30">[ㄉ(th)ㄚˋ]</string>
+    <string name="con_word30">သ</string>
+
+    <string name="con_31">ha</string>
+    <string name="con_ch31">[ㄏㄚˋ]</string>
+    <string name="con_word31">ဟ</string>
+
+    <string name="con_32">la</string>
+    <string name="con_ch32">[ㄌㄚˋ]</string>
+    <string name="con_word32">ဠ</string>
+
+    <string name="con_33">a</string>
+    <string name="con_ch33">[ㄚˋ]</string>
+    <string name="con_word33">အ</string>
+
+    <!-- Vowels-->
+    <string name="vow_1">1</string>
+    <string name="vow_ch1">1</string>
+
+    <string name="vow_2">1</string>
+    <string name="vow_ch2">1</string>
+
+    <string name="vow_3">1</string>
+    <string name="vow_ch3">1</string>
+
+    <string name="vow_4">1</string>
+    <string name="vow_ch4">1</string>
+
+    <string name="vow_5">1</string>
+    <string name="vow_ch5">1</string>
+
+    <string name="vow_6">1</string>
+    <string name="vow_ch6">1</string>
+
+    <string name="vow_7">1</string>
+    <string name="vow_ch7">1</string>
+
+    <string name="vow_8">1</string>
+    <string name="vow_ch8">1</string>
+
+    <string name="vow_9">1</string>
+    <string name="vow_ch9">1</string>
+
+    <string name="vow_10">1</string>
+    <string name="vow_ch10">1</string>
+
+    <string name="vow_11">1</string>
+    <string name="vow_ch11">1</string>
+
+    <string name="vow_12">1</string>
+    <string name="vow_ch12">1</string>
+
+
+
+
+
+    <!-- Vocabulary word for the color red [CHAR LIMIT=20] -->
+    <string name="color_red">red</string>
+
+    <!-- Vocabulary word for the color dusty yellow [CHAR LIMIT=20] -->
+    <string name="color_dusty_yellow">dusty yellow</string>
+
+    <!-- Vocabulary word for the color mustard yellow [CHAR LIMIT=20] -->
+    <string name="color_mustard_yellow">mustard yellow</string>
+
+    <!-- Vocabulary word for the color green [CHAR LIMIT=20] -->
+    <string name="color_green">green</string>
+
+    <!-- Vocabulary word for the color brown [CHAR LIMIT=20] -->
+    <string name="color_brown">brown</string>
+
+    <!-- Vocabulary word for the color black [CHAR LIMIT=20] -->
+    <string name="color_black">black</string>
+
+    <!-- Vocabulary word for the color gray [CHAR LIMIT=20] -->
+    <string name="color_gray">gray</string>
+
+    <!-- Vocabulary word for the color white [CHAR LIMIT=20] -->
+    <string name="color_white">white</string>
+
+    <!-- Numbers-->
+    <string name="number_zero">zero 零</string>
+    <string name="ch_zero">[dong nia] [ㄉㄨㄥˇ ㄋㄧㄚˋ]</string>
+    <string name="number_word0">၀</string>
+
+    <string name="number_one">one 一</string>
+    <string name="ch_one">[di] [ㄉㄧ˙]</string>
+    <string name="number_word1">၁</string>
+
+    <string name="number_two">two 二</string>
+    <string name="ch_two">[ni] [ㄋㄧ˙]</string>
+    <string name="number_word2">၂</string>
+
+    <string name="number_three">three 三</string>
+    <string name="ch_three">[dong] [ㄉㄨㄥ]</string>
+    <string name="number_word3">၃</string>
+
+    <string name="number_four">four 四</string>
+    <string name="ch_four">[lay] [ㄌㄟ]</string>
+    <string name="number_word4">၄</string>
+
+    <string name="number_five">five 五</string>
+    <string name="ch_five">[na] [ㄋㄚˋ]</string>
+    <string name="number_word5">၅</string>
+
+    <string name="number_six">six 六</string>
+    <string name="ch_six">[chow] [ㄑ一ㄠˋ]</string>
+    <string name="number_word6">၆</string>
+
+    <string name="number_seven">seven 七</string>
+    <string name="ch_seven">[kong] [ㄎㄨㄥˇ]</string>
+    <string name="number_word7">၇</string>
+
+    <string name="number_eight">eight 八</string>
+    <string name="ch_eight">[si] [ㄒㄧ˙]</string>
+    <string name="number_word8">၈</string>
+
+    <string name="number_nine">nine 九</string>
+    <string name="ch_nine">[go] [ㄍㄡ]</string>
+    <string name="number_word9">၉</string>
+
+    <string name="number_ten">ten 十</string>
+    <string name="ch_ten">[say] [ㄙㄟˇ]</string>
+    <string name="number_word10">၁၀</string>
+
+    <!-- Vocabulary word for the father family member [CHAR LIMIT=20] -->
+    <string name="family_father">father</string>
+
+    <!-- Vocabulary word for the mother family member [CHAR LIMIT=20] -->
+    <string name="family_mother">mother</string>
+
+    <!-- Vocabulary word for the son family member [CHAR LIMIT=20] -->
+    <string name="family_son">son</string>
+
+    <!-- Vocabulary word for the daughter family member [CHAR LIMIT=20] -->
+    <string name="family_daughter">daughter</string>
+
+    <!-- Vocabulary word for the older brother family member [CHAR LIMIT=20] -->
+    <string name="family_older_brother">older brother</string>
+
+    <!-- Vocabulary word for the younger brother family member [CHAR LIMIT=20] -->
+    <string name="family_younger_brother">younger brother</string>
+
+    <!-- Vocabulary word for the older sister family member [CHAR LIMIT=20] -->
+    <string name="family_older_sister">older sister</string>
+
+    <!-- Vocabulary word for the younger sister family member [CHAR LIMIT=20] -->
+    <string name="family_younger_sister">younger sister</string>
+
+    <!-- Vocabulary word for the grandmother family member [CHAR LIMIT=20] -->
+    <string name="family_grandmother">grandmother</string>
+
+    <!-- Vocabulary word for the grandfather family member [CHAR LIMIT=20] -->
+    <string name="family_grandfather">grandfather</string>
+
+
+    <!-- Phrases-->
+    <string name="phrase_hi">မဂႆလာပၝ (min-ga-la-ba)</string>
+    <string name="phrase_ch_hi">Hello (Greeting) 你好</string>
+
+    <string name="phrase_greet">မဂႆလာပၝ (min-ga-la-ba)</string>
+    <string name="phrase_ch_greet">Good morning/afternoon/evening 早安、午安、晚安</string>
+
+    <string name="phrase_thanks">ေက်းဇူးတန္ပါတယ္။ (cè-zù tin-ba-deh)</string>
+    <string name="phrase_ch_thanks">Thank you! 謝謝!</string>
+
+    <string name="phrase_name">နာမည္ဘယ္လိုေခၚလဲ။ (ne-meh beh-lo k\'aw-lèh?)</string>
+    <string name="phrase_ch_name">What\'s your name? 叫什麼名字呢?</string>
+
+    <string name="phrase_mname">ကျွန်ေတာ့်____လို့ေခါ်ပါတယ်။ (cǎnáw____ló k\'aw-ba-deh)</string>
+    <string name="phrase_ch_mname">(male) My name is____. 我的名字叫____。</string>
+
+    <string name="phrase_fname">ကျွန်မ____လို့ေခါ်ပါတယ်။ (cǎmá____ ló k\'aw-ba-deh)</string>
+    <string name="phrase_ch_fname">(female) My name is____. 我的名字叫____。</string>
+
+    <string name="phrase_welcome">ကြိုဆိုပါတယ် (kyaosopartaal)</string>
+    <string name="phrase_ch_welcome">Welcome! 歡迎光臨!</string>
+
+    <string name="phrase_from">သင်ဘယ်ကလဲ? (sain bhaalkalell?)</string>
+    <string name="phrase_ch_from">Where are you from? 您來自哪裡?</string>
+
+    <string name="phrase_froms">____ကပါ။ (k-par)</string>
+    <string name="phrase_ch_froms">I am from ____. 我來自____。</string>
+
+    <string name="phrase_meet">ေတွ ရတာ ဝမ်းသာပါတယ်။ (twé-yá-da wùn-tha-ba-deh)</string>
+    <string name="phrase_ch_meet">Nice to meet you. 很高興認識你。</string>
+
+    <string name="phrase_bye">ဘိုင်ဘိုင်။ (bhinebhine)</string>
+    <string name="phrase_ch_bye">Goodbye! 再見!</string>
+
+    <string name="phrase_unders">ကျွန်တော်နားလည်ပါတယ်(kyawantaw narrlaipartaal)</string>
+    <string name="phrase_ch_unders">I understand. 我了解。</string>
+
+    <string name="phrase_disunders">နားမလည္ပၝဘူး။ (nà-mǎleh-ba-bù)</string>
+    <string name="phrase_ch_disunders">I don\'t understand. 我不了解。</string>
+
+    <string name="phrase_yes">အင်း၊ (aainn)</string>
+    <string name="phrase_ch_yes">Yes 是的</string>
+
+    <string name="phrase_know">မသိပါဘူး။ (ma thi par bhuu)</string>
+    <string name="phrase_ch_know">I don\'t know. 我不知道。</string>
+
+    <string name="phrase_again">ြပန်ေြဟပါအံုး။ (pyan-pyàw-ba-oùn)</string>
+    <string name="phrase_ch_again">Please say that again. 請再說一次。</string>
+
+    <string name="phrase_eng">သင် အင်္ဂလိပ်လို ပြောသလား? (shin aaingaliutlo pyaw lar?)</string>
+    <string name="phrase_ch_eng">Do you speak English? 你會說英文嗎?</string>
+
+
+</resources>
